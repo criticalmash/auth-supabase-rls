@@ -1,0 +1,11 @@
+{
+  "name": "auth-supabase",
+  "version": "1.0.0",
+  "description": "Experimenting with supabase RLS for multi-tenant & shared apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
